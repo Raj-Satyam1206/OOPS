@@ -30,4 +30,3 @@ int main()
     cout<< "Age is :" << s.sem << endl;    
     return 0;
 }
-
